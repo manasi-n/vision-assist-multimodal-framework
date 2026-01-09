@@ -15,6 +15,16 @@ The framework is modular and extensible, allowing **future integration with embe
 - 🌐 **Multilingual translation** (English → Telugu & Hindi)
 - 🎥 Live camera feed with object tracking (IoU-based)
 - 🧩 Modular architecture for future embedded integration
+## 📸 Project Screenshots
+
+### Live Object Detection & Distance Alerts
+![Live Detection](assets/screenshot1.png)
+
+### Image Captioning & Translation
+![Captioning](assets/screenshot2.png)
+
+### GUI Interface
+![GUI](assets/screenshot3.png)
 
 ---
 
